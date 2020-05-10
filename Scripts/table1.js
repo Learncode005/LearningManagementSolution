@@ -9,7 +9,7 @@ function printTable(){
   //it is also for "menu3" section to display properly making right padding to value 22.
   $("#menu3id").css("padding-right",22);
   //to make color menu background color to white.
-  $("#ColorsID").css("background-color", 'black');
+  $("#ColorsID").css("background-color", 'white');
   //to make symbols menu text color to black.
   $("#symbolsID").css("color", 'black');
   //to make tables menu text color to orange.
